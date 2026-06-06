@@ -1,0 +1,6 @@
+{
+  "name": "Girişimcilik Simülasyonu",
+  "description": "Girişimler kurun, borsada ve kripto piyasalarında işlem yapın, varlıklarınızı büyütün ve başarı basamaklarını tırmanın.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
